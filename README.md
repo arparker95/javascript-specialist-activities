@@ -1,0 +1,1 @@
+# javascript-specialist-activities
